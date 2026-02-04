@@ -1,0 +1,25 @@
+# Ignore system & editor files
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore user/system configs
+.bash_history
+.gitconfig
+.ssh/
+AppData/
+OneDrive/
+
+# Ignore everything by default
+*
+
+# Allow only our challenge files
+!Day*.py
+!day*.py
+!README.md
+!.gitignore
