@@ -1,3 +1,4 @@
+# Day 01 – Python Basics
 def tokenize_text(text):
     text = text.lower()
     return text.split()
