@@ -1,7 +1,7 @@
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OllamaEmbeddings
 
-# 🔹 Step 1: Documents
+# 🔹 Step 1:   Documents
 documents = [
     "Artificial Intelligence is the future of technology",
     "Machine Learning is a subset of AI",
