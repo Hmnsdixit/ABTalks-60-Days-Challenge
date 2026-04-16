@@ -33,4 +33,4 @@ while True:
     for i, doc in enumerate(results):
         print(f"{i+1}. {doc.page_content}")
     
-    print("-" * 40)
+    print("-" * 40) # Day 39 Completed - Semantic Search using FAISS
