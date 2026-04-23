@@ -15,11 +15,13 @@ Thumbs.db
 AppData/
 OneDrive/
 
-# Ignore everything by default
+# Ignore everything
 *
 
-# Allow only our challenge files
+# Allow important files
 !Day*.py
 !day*.py
 !README.md
 !.gitignore
+!requirements.txt
+!app.py
