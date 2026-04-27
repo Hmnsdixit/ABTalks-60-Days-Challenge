@@ -1,0 +1,5 @@
+NLP is an amazing field of Artificial Intelligence.
+Text preprocessing is very important in NLP tasks.
+Machine learning models require clean and structured data.
+NLP pipelines help automate text cleaning and analysis.
+TF-IDF and Bag of Words are common feature extraction techniques.

@@ -1,0 +1,6 @@
+tokenization is a key step in natural language processing
+wordpiece tokenizer is widely used in transformer models
+large language models rely on subword tokenization
+tokenization helps handle rare and unknown words effectively
+python is commonly used for nlp and data science tasks
+modern nlp systems use wordpiece or bpe tokenizers

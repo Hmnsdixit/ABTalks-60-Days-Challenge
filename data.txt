@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+
+Machine Learning is a subset of AI that enables systems to learn from data.
+
+Deep Learning is a specialized form of Machine Learning using neural networks.
+
+FAISS is a library for efficient similarity search and clustering.
+
+RAG (Retrieval-Augmented Generation) improves LLM responses by using external documents.
